@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuaddhAlsway/NODEJS-The-Complete-Guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuaddhAlsway/NODEJS-The-Complete-Guide/issues"
+  },
+  "homepage": "https://github.com/MuaddhAlsway/NODEJS-The-Complete-Guide#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
